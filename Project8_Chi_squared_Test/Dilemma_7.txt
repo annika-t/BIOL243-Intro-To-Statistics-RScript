@@ -1,0 +1,7 @@
+Dilemma_7
+
+With variable and rapidly changing demographics in the United States (US), there is considerable interest in whether party affiliation relates to variation in voter's race or ethnicity.
+
+The Pew Research Center conducts yearly surveys to examine how party affiliation varies by sociodemographic characteristics in US voters, including race/ethnicity. Today, you will work with real data from the Pew Research Center from recent years (2016-2019) that were conducted among representative samples of voters across the US.
+
+Imagine that you have been hired by the nominee of the Democratic Party in an upcoming US federal presidential election to analyze these data. They would like to know whether the proportions of US voters who affiliate as Republican, Independent, or Democratic varies by race/ethnicity.

@@ -1,0 +1,3 @@
+Dilemma_4
+
+The Boston Marathon is the worlds oldest annual marathon having started in 1897. Not surprisingly, the race times have gotten shorter over the past century. The early races were all men, and women first raced in 1966. The figure below shows race time in minutes of the winner for each year.

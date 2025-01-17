@@ -1,0 +1,13 @@
+Create two vectors that show the album chart position for the 13 albums that The Tragically Hip released. The first variable is the chart position for albums released before 2000, and the second one is the position from 2000 to 2016.
+
+Before2000=c(13,1,1,1,1,1)
+After2000=c(1,2,1,2,1,3,1)
+
+Use an RStudio function to determine the max value in the vector Before2000. For example, the minimum would be min(Before2000).
+
+Create a new variable in RStudio containing the difference between the mean value of the vector Before2000 and the mean value of the vector After2000.
+
+Display the contents of this variable in RStudio (hint: julie from the software skills guide). During what time period (before versus after 2000) was the group most popular?
+
+
+#The band was more popular after 2000

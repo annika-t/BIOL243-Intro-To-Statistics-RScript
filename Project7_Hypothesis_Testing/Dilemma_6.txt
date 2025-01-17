@@ -1,0 +1,7 @@
+Dilemma_6
+
+Heart disease is the second greatest cause of death in Canada and the leading cause of death in the United States. According to the Heart and Stroke Foundation, one of the highest for heart disease and stroke is high blood-cholesterol levels. 
+
+Cholesterol is an organic molecule that is essential for the synthesis of animal cell membranes, vitamin D, and hormones. However, elevated blood levels of low-density lipoprotein cholesterol can cause plaque to build up on artery walls, increasing a person’s risk of heart disease. Today you will work with data from a public health study conducted by a regional hospital in Canada. 
+
+The hospital has been making efforts to educate community members on the risks of high-cholesterol and have suggested ways of reducing blood-cholesterol levels such as improved diet and exercise regimes. During the study, the hospital randomly sampled the blood-cholesterol levels of patients in the hospital.

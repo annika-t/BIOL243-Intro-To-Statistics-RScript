@@ -1,0 +1,11 @@
+Dilemma_2
+
+The following figure shows global fertility rates over the past 50 years. There has been a strong decline in fertility since the 1960s. 
+
+This has demographers in many countries worried because, among other things, it means an older population with fewer people in the workforce. These data, however, miss some interesting patterns in how fertility is changing among individuals of different socioeconomic statuses. 
+
+Socioeconomic status is often defined as a person's social and economic standing in society, and is often measured through factors such as education, income and occupation. Although it is commonly known that countries with higher wealth (e.g. higher GDP) have lower fertility rates, we are interested in examining the trend among data from citizens within the countries. 
+
+Understanding fertility rates at this finer level of detail is important for governments because it helps them anticipate future shifts in fertility that could impact the workforce and social communities. 
+
+In this tutorial, will use descriptive statistics to explore how fertility rates differ by household wealth among various countries around the world.

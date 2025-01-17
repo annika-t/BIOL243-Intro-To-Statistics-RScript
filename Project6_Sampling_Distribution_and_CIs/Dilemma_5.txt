@@ -1,0 +1,4 @@
+Dilemma_5
+
+In this project, will repeatedly sample from two populations in order to build sampling distributions. The first population is made up of the number of Facebook friends individual users have. The second population, Geyser, is the distribution of the time between eruptions for the 'Old Faithful'. We are using these populations because they have differently shaped population distributions (see graphs provided in the application); however, by repeatedly sampling each of these populations, you will discover something common about the shapes of the sampling distributions for the two populations.
+

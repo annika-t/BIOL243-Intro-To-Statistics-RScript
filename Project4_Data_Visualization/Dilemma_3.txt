@@ -1,0 +1,11 @@
+Dilemma_3
+
+Cyberbullying is a serious problem that is receiving increasing attention from researchers. Today you will be working with part of a larger data set provided by the Bully Lab at Queen's University, one of the world's leading laboratories studying bullying and victimization. The data set comes from a national survey carried out in 2020 asking 1000 randomly selected young people between the ages of 12 and 18 years old about both their offline and online behaviour. 
+
+Several of the survey questions asked participants whether they would intervene if they saw mean comments, posts, or pictures. For example, for one of the questions, participants were given the statement:
+
+"I would intervene when I saw mean comments, posts or pictures if I believed what was happening was fair or morally wrong." and asked to indicate whether they 'Agree', 'Somewhat agree', 'Somewhat disagree', 'Disagree', or 'Prefer not to answer'.
+
+It is well established that some aspects of bully behaviour differs by gender, and therefore the survey also asked participants to indicate their gender identity as 'Boy', 'Girl', 'Gender diverse', or 'Prefer not to say'.
+
+The data set you will be working with includes responses to these two questions in addition to participants' age, the province/territory they live in, their overall mental health, and cyberbullying frequency. 

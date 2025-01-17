@@ -1,0 +1,13 @@
+Anatomy of a Statistical Population
+
+Dilemma
+You work for a government agency that regulates the diets of small animals. You have been hired by a farm supply company “Chickens ‘R’ Us!” to make recommendations about the type of diet needed to raise large chickens. To evaluate the performance of each diet, you conduct an experiment that followed the weight of chicks on different diets over a period of several days. The chicks used in the study were a random sample from “Chickens ‘R’ Us!” company. The diets were:
+
+Diet 1: Control
+Diet 2: 10% additional protein
+Diet 3: 20% additional protein
+Diet 4: 40% additional protein
+
+As you work through the following activities, your goal will be to evaluate the diet that you will recommend to the farmer.
+
+In the first part of the tutorial will get you acquainted with the chicks, and in the second part will find out what diet is optimal
